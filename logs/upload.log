@@ -1,0 +1,208 @@
+[2026-05-21T11:52:25.762Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T11:52:30.143Z] [INFO] 准备定时发布 {"scheduledAt":"2026-05-22 10:00"}
+[2026-05-21T11:52:30.177Z] [INFO] 进入发布流程
+[2026-05-21T11:52:31.400Z] [INFO] 检测到真实弹窗，尝试确认 {"mode":"scheduled","index":1,"dialogText":"发布提示\n检测到你还有错别字未修改，是否确定提交？\n取消提交"}
+[2026-05-21T11:52:32.410Z] [INFO] 检测到发布设置弹窗，停止通用弹窗处理，交给发布设置流程 {"mode":"scheduled","dialogText":"发布设置\n分卷\n第一卷：默认\n章节\n第61章 死亡证明\n上次提交\n第一卷第60章 复核报告\n是否使用AI\n是\n否\n定时发布\n关闭定时发布后，章节在通过审核后会立即发布\n取消确认发布"}
+[2026-05-21T11:52:32.429Z] [INFO] 检测到可见发布设置弹窗 {"dialogText":"发布设置\n分卷\n第一卷：默认\n章节\n第61章 死亡证明\n上次提交\n第一卷第60章 复核报告\n是否使用AI\n是\n否\n定时发布\n关闭定时发布后，章节在通过审核后会立即发布\n取消确认发布"}
+[2026-05-21T11:52:32.479Z] [INFO] 发布设置弹窗AI声明选择结果 {"wantedText":"否","wantedValue":"2","aiResult":{"ok":true,"wantedValue":"2","wantedText":"否","checked":true,"debug":[{"value":"1","checked":false,"labelText":"是","labelClass":"arco-radio","radioClass":"arco-radio"},{"value":"2","checked":true,"labelText":"否","labelClass":"arco-radio arco-radio-checked","radioClass":"arco-radio arco-radio-checked"}]}}
+[2026-05-21T11:52:32.481Z] [INFO] 发布设置页 AI 声明已处理，等待最终确认发布
+[2026-05-21T11:52:55.144Z] [INFO] 保存页面截图 {"screenshotPath":"C:\\Users\\Administrator\\Desktop\\codex工作本\\fanqie-uploader\\logs\\screenshots\\schedule_time_missing_schedule_time_missing_1779364374957.png"}
+[2026-05-21T11:52:55.271Z] [INFO] 保存页面截图 {"screenshotPath":"C:\\Users\\Administrator\\Desktop\\codex工作本\\fanqie-uploader\\logs\\screenshots\\61_schedule_failed_1779364375146.png"}
+[2026-05-21T11:53:54.449Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T11:53:59.799Z] [INFO] 进入发布流程
+[2026-05-21T11:54:01.142Z] [INFO] 检测到真实弹窗，尝试确认 {"mode":"scheduled","index":1,"dialogText":"发布提示\n检测到你还有错别字未修改，是否确定提交？\n取消提交"}
+[2026-05-21T11:54:02.182Z] [INFO] 检测到发布设置弹窗，停止通用弹窗处理，交给发布设置流程 {"mode":"scheduled","dialogText":"发布设置\n分卷\n第一卷：默认\n章节\n第61章 死亡证明\n上次提交\n第一卷第60章 复核报告\n是否使用AI\n是\n否\n定时发布\n关闭定时发布后，章节在通过审核后会立即发布\n取消确认发布"}
+[2026-05-21T11:54:02.219Z] [INFO] 检测到可见发布设置弹窗 {"dialogText":"发布设置\n分卷\n第一卷：默认\n章节\n第61章 死亡证明\n上次提交\n第一卷第60章 复核报告\n是否使用AI\n是\n否\n定时发布\n关闭定时发布后，章节在通过审核后会立即发布\n取消确认发布"}
+[2026-05-21T11:54:02.306Z] [INFO] 发布设置弹窗AI声明选择结果 {"wantedText":"否","wantedValue":"2","aiResult":{"ok":true,"wantedValue":"2","wantedText":"否","checked":true,"debug":[{"value":"1","checked":false,"labelText":"是","labelClass":"arco-radio","radioClass":"arco-radio"},{"value":"2","checked":true,"labelText":"否","labelClass":"arco-radio arco-radio-checked","radioClass":"arco-radio arco-radio-checked"}]}}
+[2026-05-21T11:54:02.307Z] [INFO] 发布设置页 AI 声明已处理，等待最终确认发布
+[2026-05-21T11:55:05.304Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T11:55:09.656Z] [INFO] 进入发布流程
+[2026-05-21T11:55:11.171Z] [INFO] 检测到真实弹窗，尝试确认 {"mode":"scheduled","index":1,"dialogText":"发布提示\n检测到你还有错别字未修改，是否确定提交？\n取消提交"}
+[2026-05-21T11:55:12.194Z] [INFO] 检测到发布设置弹窗，停止通用弹窗处理，交给发布设置流程 {"mode":"scheduled","dialogText":"发布设置\n分卷\n第一卷：默认\n章节\n第61章 死亡证明\n上次提交\n第一卷第60章 复核报告\n是否使用AI\n是\n否\n定时发布\n关闭定时发布后，章节在通过审核后会立即发布\n取消确认发布"}
+[2026-05-21T11:55:12.230Z] [INFO] 检测到可见发布设置弹窗 {"dialogText":"发布设置\n分卷\n第一卷：默认\n章节\n第61章 死亡证明\n上次提交\n第一卷第60章 复核报告\n是否使用AI\n是\n否\n定时发布\n关闭定时发布后，章节在通过审核后会立即发布\n取消确认发布"}
+[2026-05-21T11:55:12.318Z] [INFO] 发布设置弹窗AI声明选择结果 {"wantedText":"否","wantedValue":"2","aiResult":{"ok":true,"wantedValue":"2","wantedText":"否","checked":true,"debug":[{"value":"1","checked":false,"labelText":"是","labelClass":"arco-radio","radioClass":"arco-radio"},{"value":"2","checked":true,"labelText":"否","labelClass":"arco-radio arco-radio-checked","radioClass":"arco-radio arco-radio-checked"}]}}
+[2026-05-21T11:55:12.327Z] [INFO] 发布设置页 AI 声明已处理，等待最终确认发布
+[2026-05-21T11:56:34.741Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T11:56:39.060Z] [INFO] 准备定时发布 {"scheduledAt":"2026-05-22 10:00"}
+[2026-05-21T11:56:39.102Z] [INFO] 进入发布流程
+[2026-05-21T11:56:40.672Z] [INFO] 检测到真实弹窗，尝试确认 {"mode":"scheduled","index":1,"dialogText":"发布提示\n检测到你还有错别字未修改，是否确定提交？\n取消提交"}
+[2026-05-21T11:56:41.668Z] [INFO] 检测到发布设置弹窗，停止通用弹窗处理，交给发布设置流程 {"mode":"scheduled","dialogText":"发布设置\n分卷\n第一卷：默认\n章节\n第61章 死亡证明\n上次提交\n第一卷第60章 复核报告\n是否使用AI\n是\n否\n定时发布\n关闭定时发布后，章节在通过审核后会立即发布\n取消确认发布"}
+[2026-05-21T11:56:41.697Z] [INFO] 检测到可见发布设置弹窗 {"dialogText":"发布设置\n分卷\n第一卷：默认\n章节\n第61章 死亡证明\n上次提交\n第一卷第60章 复核报告\n是否使用AI\n是\n否\n定时发布\n关闭定时发布后，章节在通过审核后会立即发布\n取消确认发布"}
+[2026-05-21T11:56:41.763Z] [INFO] 发布设置弹窗AI声明选择结果 {"wantedText":"否","wantedValue":"2","aiResult":{"ok":true,"wantedValue":"2","wantedText":"否","checked":true,"debug":[{"value":"1","checked":false,"labelText":"是","labelClass":"arco-radio","radioClass":"arco-radio"},{"value":"2","checked":true,"labelText":"否","labelClass":"arco-radio arco-radio-checked","radioClass":"arco-radio arco-radio-checked"}]}}
+[2026-05-21T11:56:41.766Z] [INFO] 发布设置页 AI 声明已处理，等待最终确认发布
+[2026-05-21T11:56:46.102Z] [INFO] 已点击发布设置弹窗中的确认发布按钮 {"ok":true,"text":"确认发布"}
+[2026-05-21T11:56:49.643Z] [INFO] 检测到已跳转章节管理页，视为发布成功 {"mode":"scheduled","url":"https://fanqienovel.com/main/writer/chapter-manage/7638893845500939326&%E6%B7%B1%E6%B8%8A%E6%A1%A3%E6%A1%88%EF%BC%9A%E6%88%91%E8%83%BD%E7%9C%8B%E8%A7%81%E6%AD%BB%E4%BA%A1%E6%8F%90%E7%A4%BA?type=1"}
+[2026-05-21T11:56:49.647Z] [INFO] 章节定时发布完成 {"scheduledAt":"2026-05-22 10:00"}
+[2026-05-21T13:24:24.987Z] [INFO] AI declaration target point {"aiMode":"no","wantedText":"否","wantedValue":"2","point":{"x":225.703125,"y":109.4375,"via":"radio-input"}}
+[2026-05-21T13:24:25.598Z] [INFO] selected AI no
+[2026-05-21T13:24:25.630Z] [INFO] AI declaration target point {"aiMode":"yes","wantedText":"是","wantedValue":"1","point":{"x":156.96875,"y":109.4375,"via":"radio-input"}}
+[2026-05-21T13:24:26.255Z] [INFO] selected AI yes
+[2026-05-21T13:37:57.688Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T13:38:01.914Z] [INFO] 检查登录状态 {"loggedIn":true,"url":"https://fanqienovel.com/main/writer/chapter-manage/7638893845500939326&%E6%B7%B1%E6%B8%8A%E6%A1%A3%E6%A1%88%EF%BC%9A%E6%88%91%E8%83%BD%E7%9C%8B%E8%A7%81%E6%AD%BB%E4%BA%A1%E6%8F%90%E7%A4%BA?type=1"}
+[2026-05-21T13:38:01.922Z] [INFO] 检查登录状态 {"loggedIn":true,"url":"https://fanqienovel.com/main/writer/chapter-manage/7638893845500939326&%E6%B7%B1%E6%B8%8A%E6%A1%A3%E6%A1%88%EF%BC%9A%E6%88%91%E8%83%BD%E7%9C%8B%E8%A7%81%E6%AD%BB%E4%BA%A1%E6%8F%90%E7%A4%BA?type=1"}
+[2026-05-21T13:38:01.923Z] [INFO] 开始处理章节 {"chapterId":"live-test-62-1779370677679","index":62,"title":"第62章 失踪家属","publishMode":"scheduled","scheduledAt":"2026-05-23T10:00:00+08:00"}
+[2026-05-21T13:38:01.925Z] [INFO] 未填写目标作品，使用当前浏览器页面进行上传
+[2026-05-21T13:38:01.926Z] [INFO] 创建新章节 {"forceNew":true}
+[2026-05-21T13:38:01.932Z] [INFO] 打开全新的章节编辑页 {"nextUrl":"https://fanqienovel.com/main/writer/7638893845500939326/publish/?enter_from=newchapter"}
+[2026-05-21T13:38:03.266Z] [INFO] 填写章节标题 {"title":"第62章 失踪家属","chapterNumber":"62","titleText":"失踪家属"}
+[2026-05-21T13:38:03.625Z] [INFO] 填写章节正文 {"length":3104}
+[2026-05-21T13:38:04.444Z] [INFO] 准备定时发布 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T13:38:04.480Z] [INFO] 进入发布流程
+[2026-05-21T13:38:07.108Z] [INFO] 检测到真实弹窗，尝试确认 {"mode":"scheduled","index":1,"dialogText":"发布提示\n检测到你还有错别字未修改，是否确定提交？\n取消提交"}
+[2026-05-21T13:38:10.711Z] [INFO] 已选择基础检测或保留页面默认检测
+[2026-05-21T13:38:19.367Z] [INFO] 保存页面截图 {"screenshotPath":"C:\\Users\\Administrator\\Desktop\\codex工作本\\fanqie-uploader\\logs\\screenshots\\62_第62章_失踪家属_1779370699210.png"}
+[2026-05-21T13:38:19.369Z] [ERROR] 章节处理失败 {"chapterId":"live-test-62-1779370677679","title":"第62章 失踪家属","message":"page.evaluate: ReferenceError: aiMode is not defined\n    at eval (eval at evaluate (:302:30), <anonymous>:58:17)\n    at UtilityScript.evaluate (<anonymous>:304:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)","screenshotPath":"C:\\Users\\Administrator\\Desktop\\codex工作本\\fanqie-uploader\\logs\\screenshots\\62_第62章_失踪家属_1779370699210.png"}
+[2026-05-21T13:40:57.681Z] [INFO] AI declaration target point {"aiMode":"no","wantedText":"否","wantedValue":"2","point":{"x":140.2265625,"y":18.5,"via":"radio-input"}}
+[2026-05-21T13:40:58.305Z] [INFO] selected AI no
+[2026-05-21T13:40:58.338Z] [INFO] AI declaration target point {"aiMode":"yes","wantedText":"是","wantedValue":"1","point":{"x":93.0546875,"y":18.5,"via":"radio-input"}}
+[2026-05-21T13:40:58.972Z] [INFO] selected AI yes
+[2026-05-21T13:41:49.473Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T13:41:53.979Z] [INFO] 准备定时发布 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T13:41:54.025Z] [INFO] 进入发布流程
+[2026-05-21T13:41:55.577Z] [INFO] 检测到真实弹窗，尝试确认 {"mode":"scheduled","index":1,"dialogText":"发布提示\n检测到你还有错别字未修改，是否确定提交？\n取消提交"}
+[2026-05-21T13:41:59.228Z] [INFO] 已选择基础检测或保留页面默认检测
+[2026-05-21T13:42:07.752Z] [INFO] AI declaration target point {"aiMode":"no","wantedText":"否","wantedValue":"2","point":{"x":696.4375152587891,"y":479.9125061035156,"via":"label-offset"}}
+[2026-05-21T13:42:08.937Z] [INFO] AI declaration fallback result {"aiMode":"no","wantedText":"否","wantedValue":"2","domFallback":{"ok":true,"checked":true,"className":"arco-radio arco-radio-checked serial-radio "},"verified":true}
+[2026-05-21T13:42:10.467Z] [INFO] 保存页面截图 {"screenshotPath":"C:\\Users\\Administrator\\Desktop\\codex工作本\\fanqie-uploader\\logs\\screenshots\\62_resume_62_failed_1779370930296.png"}
+[2026-05-21T13:49:24.731Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T13:49:28.871Z] [INFO] 准备定时发布 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T13:49:28.880Z] [INFO] 进入发布流程
+[2026-05-21T13:49:30.279Z] [INFO] 检测到真实弹窗，尝试确认 {"mode":"scheduled","index":1,"dialogText":"发布提示\n检测到你还有错别字未修改，是否确定提交？\n取消提交"}
+[2026-05-21T13:49:33.872Z] [INFO] 已选择基础检测或保留页面默认检测
+[2026-05-21T13:49:46.060Z] [INFO] 检测到真实弹窗，尝试确认 {"mode":"scheduled","index":1,"dialogText":"发布提示\n检测到你还有错别字未修改，是否确定提交？\n取消提交"}
+[2026-05-21T13:49:52.316Z] [INFO] AI declaration target point {"aiMode":"no","wantedText":"否","wantedValue":"2","point":{"x":696.4375152587891,"y":459.9125061035156,"via":"label-offset"}}
+[2026-05-21T13:49:53.467Z] [INFO] AI declaration fallback result {"aiMode":"no","wantedText":"否","wantedValue":"2","domFallback":{"ok":false,"reason":"input-not-found"},"verified":false}
+[2026-05-21T13:49:53.622Z] [INFO] 保存页面截图 {"screenshotPath":"C:\\Users\\Administrator\\Desktop\\codex工作本\\fanqie-uploader\\logs\\screenshots\\ai_select_failed_ai_select_failed_1779371393470.png"}
+[2026-05-21T13:49:53.737Z] [INFO] 保存页面截图 {"screenshotPath":"C:\\Users\\Administrator\\Desktop\\codex工作本\\fanqie-uploader\\logs\\screenshots\\62_resume_62_failed_1779371393625.png"}
+[2026-05-21T13:51:40.349Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T14:03:12.246Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T14:03:19.064Z] [INFO] 检查登录状态 {"loggedIn":true,"url":"https://fanqienovel.com/main/writer/7638893845500939326/publish/7642338643171869208?enter_from=newchapter"}
+[2026-05-21T14:03:19.078Z] [INFO] 准备定时发布 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T14:03:19.084Z] [INFO] 进入发布流程
+[2026-05-21T14:03:20.322Z] [INFO] 检测到真实弹窗，尝试确认 {"mode":"scheduled","index":1,"dialogText":"发布提示\n检测到你还有错别字未修改，是否确定提交？\n取消提交"}
+[2026-05-21T14:03:23.959Z] [INFO] 已选择基础检测或保留页面默认检测
+[2026-05-21T14:03:32.450Z] [INFO] AI declaration target point {"aiMode":"no","wantedText":"否","wantedValue":"2","point":{"x":696.4375152587891,"y":479.9125061035156,"via":"label-offset"}}
+[2026-05-21T14:03:33.608Z] [INFO] AI declaration fallback result {"aiMode":"no","wantedText":"否","wantedValue":"2","domFallback":{"ok":true,"checked":true,"className":"arco-radio arco-radio-checked serial-radio "},"verified":true}
+[2026-05-21T14:21:29.751Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T14:21:35.229Z] [INFO] 检查登录状态 {"loggedIn":true,"url":"https://fanqienovel.com/main/writer/7638893845500939326/publish/7642338643171869208?enter_from=newchapter"}
+[2026-05-21T14:21:35.231Z] [INFO] 准备定时发布 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T14:21:35.237Z] [INFO] 进入发布流程
+[2026-05-21T14:21:36.372Z] [INFO] 检测到真实弹窗，尝试确认 {"mode":"scheduled","index":1,"dialogText":"发布提示\n检测到你还有错别字未修改，是否确定提交？\n取消提交"}
+[2026-05-21T14:21:39.985Z] [INFO] 已选择基础检测或保留页面默认检测
+[2026-05-21T14:21:48.452Z] [INFO] AI declaration target point {"aiMode":"no","wantedText":"否","wantedValue":"2","point":{"x":696.4375152587891,"y":479.9125061035156,"via":"label-offset"}}
+[2026-05-21T14:21:49.600Z] [INFO] AI declaration fallback result {"aiMode":"no","wantedText":"否","wantedValue":"2","domFallback":{"ok":true,"checked":true,"className":"arco-radio arco-radio-checked serial-radio "},"verified":true}
+[2026-05-21T14:21:50.430Z] [INFO] 准备打开定时发布开关
+[2026-05-21T14:27:51.971Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T14:27:57.893Z] [INFO] 检查登录状态 {"loggedIn":true,"url":"https://fanqienovel.com/main/writer/7638893845500939326/publish/7642338643171869208?enter_from=newchapter"}
+[2026-05-21T14:27:57.895Z] [INFO] 准备定时发布 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T14:27:57.907Z] [INFO] 进入发布流程
+[2026-05-21T14:27:59.097Z] [INFO] 检测到真实弹窗，尝试确认 {"mode":"scheduled","index":1,"dialogText":"发布提示\n检测到你还有错别字未修改，是否确定提交？\n取消提交"}
+[2026-05-21T14:28:02.702Z] [INFO] 已选择基础检测或保留页面默认检测
+[2026-05-21T14:28:11.180Z] [INFO] AI declaration target point {"aiMode":"no","wantedText":"否","wantedValue":"2","point":{"x":696.4375152587891,"y":479.9125061035156,"via":"label-offset"}}
+[2026-05-21T14:28:12.332Z] [INFO] AI declaration fallback result {"aiMode":"no","wantedText":"否","wantedValue":"2","domFallback":{"ok":true,"checked":true,"className":"arco-radio arco-radio-checked serial-radio "},"verified":true}
+[2026-05-21T14:28:13.164Z] [INFO] 准备打开定时发布开关
+[2026-05-21T14:28:13.210Z] [INFO] 定时发布开关兜底点击 {"point":{"x":1182.4000244140625,"y":34,"via":"nearest-switch"}}
+[2026-05-21T14:28:14.220Z] [INFO] 准备填写定时发布时间 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T14:28:19.830Z] [WARN] 确认发布按钮定位失败，当前页面可见按钮如下 {"buttons":[{"text":"存草稿","className":"arco-btn arco-btn-secondary arco-btn-size-default arco-btn-shape-square auto-editor-save-btn"},{"text":"下一步","className":"arco-btn arco-btn-secondary arco-btn-size-default arco-btn-shape-square publish-button auto-editor-n"}]}
+[2026-05-21T14:28:19.995Z] [INFO] 保存页面截图 {"screenshotPath":"C:\\Users\\Administrator\\Desktop\\codex工作本\\fanqie-uploader\\logs\\screenshots\\confirm_publish_missing_confirm_publish_missing_1779373699833.png"}
+[2026-05-21T14:37:01.657Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T14:37:07.631Z] [INFO] 检查登录状态 {"loggedIn":true,"url":"https://fanqienovel.com/main/writer/7638893845500939326/publish/7642338643171869208?enter_from=newchapter"}
+[2026-05-21T14:37:07.633Z] [INFO] 填写章节标题 {"title":"第62章 失踪家属","chapterNumber":"62","titleText":"失踪家属"}
+[2026-05-21T14:37:07.712Z] [INFO] 填写章节正文 {"length":3095}
+[2026-05-21T14:37:08.508Z] [INFO] 准备定时发布 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T14:37:08.530Z] [INFO] 进入发布流程
+[2026-05-21T14:49:37.394Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T14:49:43.305Z] [INFO] 检查登录状态 {"loggedIn":true,"url":"https://fanqienovel.com/main/writer/7638893845500939326/publish/7642338643171869208?enter_from=newchapter"}
+[2026-05-21T14:49:43.307Z] [INFO] 填写章节标题 {"title":"第62章 失踪家属","chapterNumber":"62","titleText":"失踪家属"}
+[2026-05-21T14:49:43.360Z] [INFO] 填写章节正文 {"length":3095}
+[2026-05-21T14:49:44.045Z] [INFO] 准备定时发布 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T14:49:44.060Z] [INFO] 进入发布流程
+[2026-05-21T14:54:20.242Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T14:54:27.165Z] [INFO] 保存页面截图 {"screenshotPath":"C:\\Users\\Administrator\\Desktop\\codex工作本\\fanqie-uploader\\logs\\screenshots\\diag_62_diag_1779375266981.png"}
+[2026-05-21T15:08:09.363Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T15:08:13.947Z] [INFO] 检查登录状态 {"loggedIn":true,"url":"https://fanqienovel.com/main/writer/7638893845500939326/publish/7642338643171869208?enter_from=newchapter"}
+[2026-05-21T15:08:13.949Z] [INFO] 准备定时发布 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T15:08:13.966Z] [INFO] 点击编辑器右上角下一步 {"editorNext":{"x":1294.4000244140625,"y":34,"text":"下一步","className":"arco-btn arco-btn-secondary arco-btn-size-default arco-btn-shape-square arco-btn-disabled publish-button auto-editor-next btn-primary-variant"}}
+[2026-05-21T15:08:18.266Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T15:08:21.531Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T15:08:29.222Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T15:08:32.470Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T15:08:35.720Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T15:08:38.970Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T15:08:42.223Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T15:08:45.491Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T15:08:48.756Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T15:08:52.013Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T15:08:55.302Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T15:08:58.565Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T15:09:01.827Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T16:59:02.770Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T16:59:07.763Z] [INFO] 填写章节标题 {"title":"第62章 失踪家属","chapterNumber":"62","titleText":"失踪家属"}
+[2026-05-21T16:59:32.228Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T16:59:36.909Z] [INFO] 检查登录状态 {"loggedIn":true,"url":"https://fanqienovel.com/main/writer/7638893845500939326/publish/7642338643171869208?enter_from=newchapter"}
+[2026-05-21T16:59:36.910Z] [INFO] 填写章节标题 {"title":"第62章 失踪家属","chapterNumber":"62","titleText":"失踪家属"}
+[2026-05-21T16:59:36.965Z] [INFO] 准备定时发布 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T16:59:37.020Z] [INFO] 点击编辑器右上角下一步 {"editorNext":{"x":1294.4000244140625,"y":34,"text":"下一步","className":"arco-btn arco-btn-secondary arco-btn-size-default arco-btn-shape-square publish-button auto-editor-next btn-primary-variant"}}
+[2026-05-21T16:59:41.301Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T16:59:44.549Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T16:59:47.799Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T16:59:51.053Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T16:59:54.320Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T16:59:57.582Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T17:00:00.839Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T17:00:04.088Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T17:00:07.354Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T17:00:10.612Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T17:00:13.862Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T17:00:17.116Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T17:00:20.369Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T17:00:23.621Z] [INFO] publish wizard next step {"ok":true,"text":"下一步"}
+[2026-05-21T17:03:20.766Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T17:03:25.385Z] [INFO] 填写章节标题 {"title":"第62章 失踪家属","chapterNumber":"62","titleText":"失踪家属"}
+[2026-05-21T17:03:26.699Z] [INFO] 点击编辑器右上角下一步 {"editorNext":{"x":1294.4000244140625,"y":34,"text":"下一步","className":"arco-btn arco-btn-secondary arco-btn-size-default arco-btn-shape-square publish-button auto-editor-next btn-primary-variant"}}
+[2026-05-21T17:03:32.942Z] [INFO] 保存页面截图 {"screenshotPath":"C:\\Users\\Administrator\\Desktop\\codex工作本\\fanqie-uploader\\logs\\screenshots\\after_next_62_after_next_1779383012729.png"}
+[2026-05-21T17:05:39.064Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T17:05:43.737Z] [INFO] 检查登录状态 {"loggedIn":true,"url":"https://fanqienovel.com/main/writer/7638893845500939326/publish/7642338643171869208?enter_from=newchapter"}
+[2026-05-21T17:05:43.744Z] [INFO] 填写章节标题 {"title":"第62章 失踪家属","chapterNumber":"62","titleText":"失踪家属记录"}
+[2026-05-21T17:05:43.816Z] [INFO] 准备定时发布 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T17:05:43.907Z] [INFO] 点击编辑器右上角下一步 {"editorNext":{"x":1294.4000244140625,"y":34,"text":"下一步","className":"arco-btn arco-btn-secondary arco-btn-size-default arco-btn-shape-square publish-button auto-editor-next btn-primary-variant"}}
+[2026-05-21T17:05:45.529Z] [INFO] 检测到真实弹窗，尝试确认 {"mode":"scheduled","index":1,"dialogText":"发布提示\n检测到你还有错别字未修改，是否确定提交？\n取消提交"}
+[2026-05-21T17:05:49.207Z] [INFO] 已选择基础检测或保留页面默认检测
+[2026-05-21T17:05:49.830Z] [INFO] review check next step {"ok":true,"text":"下一步"}
+[2026-05-21T17:05:49.848Z] [INFO] AI declaration target point {"aiMode":"no","wantedText":"否","wantedValue":"2","point":{"x":696.4375152587891,"y":510.7124938964844,"via":"label-offset"}}
+[2026-05-21T17:05:50.480Z] [INFO] selected AI no
+[2026-05-21T17:05:51.772Z] [INFO] 准备打开定时发布开关
+[2026-05-21T17:05:51.807Z] [INFO] 点击定时发布开关 {"attempt":1,"point":{"x":603.2000122070312,"y":577.2875366210938,"via":"switch"}}
+[2026-05-21T17:05:52.614Z] [INFO] 准备填写定时发布时间 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T17:05:56.069Z] [INFO] 确认定时发布 {"ok":true,"text":"确认发布"}
+[2026-05-21T17:05:58.807Z] [INFO] 检测到发布成功或提交审核状态 {"mode":"scheduled","matched":"审核中","bodyText":"作家专区\n番茄小说网\n作家课堂\n作家福利\n消息通知\n忆三川\n工作台\n作品管理\n小说\n短故事\n数据中心\n小说数据\n短故事数据\n收益分析\n小说收益\n短故事稿费\n互动管理\n评论管理\n打赏管理\n有话说管理\n粉丝管理\n开书灵感\n作品运营\n推荐素材\n新书预热\n改编书名\n福利管理\n作家等级\n深渊档案：我能看见死亡提示\n章节管理\n草稿箱\n第一卷：默认\n审核状态\n全部\n搜索章节\n设置编辑分卷新建章节\n章节名称\n\t\n字数\n\t\n错别字\n\t\n审核状态\n\t\n发布时间\n\t\n操作\n\n\n失踪家属记录\n\t\n-\n\t\n0\n\t\n审核中\n\t\n2026-05-22 10:00\n\t\n\n\n第61章 死亡证明\n\t\n2771\n\t\n0\n\t\n待发布"}
+[2026-05-21T17:05:58.808Z] [INFO] 章节定时发布完成 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T17:10:54.751Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T17:10:59.648Z] [INFO] 检查登录状态 {"loggedIn":true,"url":"https://fanqienovel.com/main/writer/chapter-manage/7638893845500939326&%E6%B7%B1%E6%B8%8A%E6%A1%A3%E6%A1%88%EF%BC%9A%E6%88%91%E8%83%BD%E7%9C%8B%E8%A7%81%E6%AD%BB%E4%BA%A1%E6%8F%90%E7%A4%BA?type=1"}
+[2026-05-21T17:10:59.658Z] [INFO] 检查登录状态 {"loggedIn":true,"url":"https://fanqienovel.com/main/writer/chapter-manage/7638893845500939326&%E6%B7%B1%E6%B8%8A%E6%A1%A3%E6%A1%88%EF%BC%9A%E6%88%91%E8%83%BD%E7%9C%8B%E8%A7%81%E6%AD%BB%E4%BA%A1%E6%8F%90%E7%A4%BA?type=1"}
+[2026-05-21T17:10:59.660Z] [INFO] 开始处理章节 {"chapterId":"live-test-63-1779383454750","index":63,"title":"第63章 暂存间","publishMode":"scheduled","scheduledAt":"2026-05-23T10:00:00+08:00"}
+[2026-05-21T17:10:59.661Z] [INFO] 未填写目标作品，使用当前浏览器页面进行上传
+[2026-05-21T17:10:59.662Z] [INFO] 创建新章节 {"forceNew":true}
+[2026-05-21T17:10:59.667Z] [INFO] 打开全新的章节编辑页 {"nextUrl":"https://fanqienovel.com/main/writer/7638893845500939326/publish/?enter_from=newchapter"}
+[2026-05-21T17:11:30.508Z] [INFO] 保存页面截图 {"screenshotPath":"C:\\Users\\Administrator\\Desktop\\codex工作本\\fanqie-uploader\\logs\\screenshots\\63_第63章_暂存间_1779383490374.png"}
+[2026-05-21T17:11:30.509Z] [ERROR] 章节处理失败 {"chapterId":"live-test-63-1779383454750","title":"第63章 暂存间","message":"locator.waitFor: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('input.serial-editor-input-hint-area').first() to be visible\u001b[22m\n","screenshotPath":"C:\\Users\\Administrator\\Desktop\\codex工作本\\fanqie-uploader\\logs\\screenshots\\63_第63章_暂存间_1779383490374.png"}
+[2026-05-21T17:12:33.053Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T17:12:37.614Z] [INFO] 检查登录状态 {"loggedIn":true,"url":"https://fanqienovel.com/main/writer/7638893845500939326/publish/7642393524926693912?enter_from=newchapter"}
+[2026-05-21T17:12:37.617Z] [INFO] 填写章节标题 {"title":"第63章 暂存间","chapterNumber":"63","titleText":"暂存间记录"}
+[2026-05-21T17:12:37.822Z] [INFO] 填写章节正文 {"length":2552}
+[2026-05-21T17:12:38.746Z] [INFO] 准备定时发布 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T17:12:38.789Z] [INFO] 点击编辑器右上角下一步 {"editorNext":{"x":1294.4000244140625,"y":34,"text":"下一步","className":"arco-btn arco-btn-secondary arco-btn-size-default arco-btn-shape-square publish-button auto-editor-next btn-primary-variant"}}
+[2026-05-21T17:12:40.415Z] [INFO] 检测到真实弹窗，尝试确认 {"mode":"scheduled","index":1,"dialogText":"发布提示\n检测到你还有错别字未修改，是否确定提交？\n取消提交"}
+[2026-05-21T17:12:44.065Z] [INFO] 已选择基础检测或保留页面默认检测
+[2026-05-21T17:12:44.688Z] [INFO] review check next step {"ok":true,"text":"下一步"}
+[2026-05-21T17:12:44.715Z] [INFO] AI declaration target point {"aiMode":"no","wantedText":"否","wantedValue":"2","point":{"x":696.4375152587891,"y":510.7124938964844,"via":"label-offset"}}
+[2026-05-21T17:12:45.348Z] [INFO] selected AI no
+[2026-05-21T17:12:46.657Z] [INFO] 准备打开定时发布开关
+[2026-05-21T17:12:46.692Z] [INFO] 点击定时发布开关 {"attempt":1,"point":{"x":603.2000122070312,"y":577.2875366210938,"via":"switch"}}
+[2026-05-21T17:12:47.504Z] [INFO] 准备填写定时发布时间 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T17:12:50.975Z] [INFO] 确认定时发布 {"ok":true,"text":"确认发布"}
+[2026-05-21T17:12:53.714Z] [INFO] 检测到发布成功或提交审核状态 {"mode":"scheduled","matched":"审核中","bodyText":"作家专区\n番茄小说网\n作家课堂\n作家福利\n消息通知\n忆三川\n工作台\n作品管理\n小说\n短故事\n数据中心\n小说数据\n短故事数据\n收益分析\n小说收益\n短故事稿费\n互动管理\n评论管理\n打赏管理\n有话说管理\n粉丝管理\n开书灵感\n作品运营\n推荐素材\n新书预热\n改编书名\n福利管理\n作家等级\n深渊档案：我能看见死亡提示\n章节管理\n草稿箱\n第一卷：默认\n审核状态\n全部\n搜索章节\n设置编辑分卷新建章节\n章节名称\n\t\n字数\n\t\n错别字\n\t\n审核状态\n\t\n发布时间\n\t\n操作\n\n\n暂存间记录\n\t\n-\n\t\n0\n\t\n审核中\n\t\n2026-05-22 10:00\n\t\n\n\n失踪家属记录\n\t\n2796\n\t\n0\n\t\n待发布\n\t\n2"}
+[2026-05-21T17:12:53.715Z] [INFO] 章节定时发布完成 {"scheduledAt":"2026-05-23 10:00"}
+[2026-05-21T17:13:35.282Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T17:38:01.633Z] [INFO] 启动 Playwright 持久化浏览器 {"userDataDir":"C:\\Users\\Administrator\\AppData\\Roaming\\fanqie-uploader\\browserProfile","executablePath":"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"}
+[2026-05-21T17:38:02.876Z] [WARN] 浏览器不在番茄作家后台页面 {"url":"about:blank"}
